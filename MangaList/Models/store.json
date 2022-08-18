@@ -1,0 +1,12 @@
+[
+    {
+        "email": "mangaworld@gmail.com",
+        "id": 1,
+        "phone": "03777888",
+        "location": "702 Nguyen Van Linh, Tan Phong world, District 7",
+        "name": "Manga World App",
+        "coordinates": {
+            "latitude": 10.729799,
+            "longitude": 106.693011}
+    }
+]

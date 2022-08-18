@@ -1,0 +1,112 @@
+[
+    {
+      "name": "One Piece",
+      "id": 1,
+      "rating": "8.67",
+      "author": "Eiichiro Oda",
+      "chapterNumber": "1055",
+      "description": "Twenty two years ago, the legendary pirate, Gold Roger was executed. His final words told that his treasure known as 'One Piece' was hidden somewhere on the Grand Line. This started the Age of Pirates. Now, twenty two years later, seventeen year old Monkey D. Luffy desires to find One Piece, and become the Pirate King. But to do this, he needs a crew.",
+      "price": "$1.5",
+      "genres": "adventure, comedy, drama, fantasy",
+      "imageName": "onepiece"
+    },
+    {
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "id": 2,
+      "rating": "9.1",
+      "author": "Haruo Sotozaki",
+      "chapterNumber": "205",
+      "description": "Since ancient times, rumors have abounded of man-eating demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a demon slayer also roams the night, hunting down these bloodthirsty demons. For young Tanjiro, these rumors will soon to become his harsh reality. Ever since the death of his father, Tanjiro has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjiro finds his family slaughtered and the lone survivor, his sister Nezuko, turned into a demon. To his surprise, however, Nezuko still shows signs of human emotion and thought. Thus begins Tanjiro's request to fight demons and turn his sister human again.",
+      "price": "$1",
+      "genres": "action, horror, supernatural",
+      "imageName": "demonSlayer"
+    },
+    {
+      "name": "One Punch",
+      "id": 3,
+      "rating": "8.15",
+      "author": "Murata Yusuke",
+      "chapterNumber": "216",
+      "description": "It tells the story of Saitama, a superhero who, because he can defeat any opponent with a single punch, grows bored from a lack of challenge.",
+      "price": "$0.8",
+      "genres": "adventure, comedy, drama, fantasy",
+      "imageName": "onepunch"
+    },
+    {
+      "name": "GTO: Great Teacher Onizuka",
+      "id": 4,
+      "rating": "8.56",
+      "author": "Noriyuki Abe",
+      "chapterNumber": "200",
+      "description": "Onizuka Eikichi is an ex-bike gang leader who has but one goal, to become the greatest teacher. While doing his teaching internship as part of his studies to become a qualified teacher, he ends up in a delinquent class and learns of the possibility and necessity of the power and respect gained from one's students. Due to a mishap, after graduating, he gets a job at a prestigious private school to handle their 'problem class' that made the past few teachers quit. He must now handle a different kind of trouble when the trouble-makers include some of the smartest kids in Japan who prefer a more 'intellectual approach' to torturing their teacher. Onizuka must slowly win his students over and deal with their distrust and hatred towards teachers and adults while handling the distrust of his fellow teachers who feel him unworthy of being a teacher.",
+      "price": "$0.5",
+      "genres": "comedy, drama",
+      "imageName": "gto"
+    },
+    {
+      "name": "Solo Leveling",
+      "id": 5,
+      "rating": "8.07",
+      "author": "Shunsuke Nakashige",
+      "chapterNumber": "179",
+      "description": "In a world where hunters — humans who possess magical abilities — must battle deadly monsters to protect the human race from certain annihilation, a notoriously weak hunter named Sung Jinwoo finds himself in a seemingly endless struggle for survival. One day, after narrowly surviving an overwhelmingly powerful double dungeon that nearly wipes out his entire party, a mysterious program called the System chooses him as its sole player and in turn, gives him the extremely rare ability to level up in strength, possibly beyond any known limits. Jinwoo then sets out on a journey as he fights against all kinds of enemies, both man and monster, to discover the secrets of the dungeons and the true source of his powers.",
+      "price": "$1",
+      "genres": "Action, Adventure, Manhwa, Shounen, Fantasy",
+      "imageName": "solo"
+    },
+    {
+      "name": "The Detective Conan",
+      "id": 6,
+      "rating": "8.17",
+      "author": "Gosho Aoyama",
+      "chapterNumber": "1097",
+      "description": "Jimmy Kudo (Japanese name: Shinichi Kudo) is a high school detective who sometimes works with the police to solve cases. During an investigation, he is ambushed and incapacitated by a member of a crime syndicate known as the Black Organization. In an attempt to murder the young detective, they force-fed him a dangerous experimental drug. However, instead of killing him, it turns him into a kid. Adopting the pseudonym Conan Edogawa and keeping his true identity a secret, Kudo lives with his childhood friend Rachel Moore (Ran Mori) and her father Richard (Kogoro Mori), who is a private detective.",
+      "price": "$1",
+      "genres": "Adventure, Mystery, Shounen",
+      "imageName": "conan"
+    },
+    {
+      "name": "Fairy Tail",
+      "id": 7,
+      "rating": "8.01",
+      "author": "Mashima Hiro",
+      "chapterNumber": "545",
+      "description": "Lucy is a 17-year-old girl, who wants to join a mage guild to become a full-fledged mage. One day when visiting Harujion Town, she meets Natsu (and his talking cat Happy), a young man who is looking for the salamander and who helps her get out of a sticky situation. That’s when she find out that Natsu not only is a mage, but is also a member of one of the world’s most infamous mage guilds: Fairy Tail.",
+      "price": "$0.8",
+      "genres": "Action, Adventure, Comedy, Shounen, Ecchi, Drama, Fantasy",
+      "imageName": "fairy"
+    },
+    {
+      "name": "Gantz",
+      "id": 8,
+      "rating": "8.45",
+      "author": "Hiroya Oku",
+      "chapterNumber": "383",
+      "description": "Somewhere in Tokyo, there is a room. In that room is a black sphere. Periodically, people who should otherwise have died are transferred to the room. There, the sphere gives them special suits and weapons, and sends them out on a mission to kill aliens here on Earth. While these missions take place, the rest of the world is largely oblivious to them. These missions are lethal - few participants survive them. The sphere calls the shots, and it's not the slightest bit nice. Its name... Gantz.",
+      "price": "$0.5",
+      "genres": "Action, Adventure, Comedy, Horror, Mystery",
+      "imageName": "gantz"
+    },
+    {
+      "name": "Inuyasha",
+      "id": 9,
+      "rating": "8.33",
+      "author": "Rumiko Takahashi",
+      "chapterNumber": "559",
+      "description": "Kagome is your average schoolgirl living in present day Tokyo. She was brought though an ancient well by a demon to the past. There she finds out that she is the reincarnation of a deceased priestess who guarded the powerful Shikon jewel, which has the power to fufill any ambition of man or demon. The jewel was reborn into her body. After saving the jewel from one of the many demons after the jewel, it shattered, and the Shikon shards were scattered across Japan. Now, Kagome must team up with the half-demon Inu-Yasha, who stole the jewel 50 years ago to be stopped by Kagome's previous form, to retrieve the shards before they fall into the wrong hands.",
+      "price": "$0.8",
+      "genres": "adventure, comedy, drama, fantasy",
+      "imageName": "inuyasha"
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "id": 10,
+      "rating": "8.15",
+      "author": "Akutami Gege",
+      "chapterNumber": "195",
+      "description": "Negative human emotions - regret, bitterness, shame - are the source of all curses that infest the world and hide in everyday life, leading to death in the worst cases. Yuji Itadori, a particularly strong young man, attempts to save a friend from a curse, only to wind up consuming the special grade curse of Ryoumen Sukuna's finger. With this curse now sharing his body, he is mentored by the curse expert Satoru Gojo to transfer to the Tokyo Metropolitan College of Arts and Science, which specializes in curses. Only a curse can eliminate another curse, and Yuji's career as a cursed person who must exorcise curses has now begin.",
+      "price": "$1",
+      "genres": "Action, Shounen, Supernatural, Fantasy",
+      "imageName": "kaisen"
+    }
+]
